@@ -13,4 +13,5 @@ def answer(N):
 
 # Test cases
 print(answer(3))
+print(answer(5))
 print(answer(30))
